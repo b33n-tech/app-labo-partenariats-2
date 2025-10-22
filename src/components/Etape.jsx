@@ -14,3 +14,4 @@ export default function Etape({ instructions, onBack }) {
     </div>
   );
 }
+
